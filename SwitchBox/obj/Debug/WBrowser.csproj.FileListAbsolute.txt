@@ -1,0 +1,34 @@
+C:\Users\dipamchang\Downloads\Compressed\WBrowser\WBrowser\WBrowser\bin\Debug\WBrowser.exe
+C:\Users\dipamchang\Downloads\Compressed\WBrowser\WBrowser\WBrowser\bin\Debug\WBrowser.pdb
+C:\Users\dipamchang\Downloads\Compressed\WBrowser\WBrowser\WBrowser\obj\Debug\WBrowser.About.resources
+C:\Users\dipamchang\Downloads\Compressed\WBrowser\WBrowser\WBrowser\obj\Debug\WBrowser.AddFavorites.resources
+C:\Users\dipamchang\Downloads\Compressed\WBrowser\WBrowser\WBrowser\obj\Debug\WBrowser.Calendar.resources
+C:\Users\dipamchang\Downloads\Compressed\WBrowser\WBrowser\WBrowser\obj\Debug\WBrowser.Close.resources
+C:\Users\dipamchang\Downloads\Compressed\WBrowser\WBrowser\WBrowser\obj\Debug\WBrowser.DeleteBrowsingHistory.resources
+C:\Users\dipamchang\Downloads\Compressed\WBrowser\WBrowser\WBrowser\obj\Debug\WBrowser.InternetOption.resources
+C:\Users\dipamchang\Downloads\Compressed\WBrowser\WBrowser\WBrowser\obj\Debug\WBrowser.WBrowser.resources
+C:\Users\dipamchang\Downloads\Compressed\WBrowser\WBrowser\WBrowser\obj\Debug\WBrowser.Open.resources
+C:\Users\dipamchang\Downloads\Compressed\WBrowser\WBrowser\WBrowser\obj\Debug\WBrowser.OrganizeFavorites.resources
+C:\Users\dipamchang\Downloads\Compressed\WBrowser\WBrowser\WBrowser\obj\Debug\WBrowser.Properties.Resources.resources
+C:\Users\dipamchang\Downloads\Compressed\WBrowser\WBrowser\WBrowser\obj\Debug\WBrowser.RenameLink.resources
+C:\Users\dipamchang\Downloads\Compressed\WBrowser\WBrowser\WBrowser\obj\Debug\WBrowser.csproj.GenerateResource.Cache
+C:\Users\dipamchang\Downloads\Compressed\WBrowser\WBrowser\WBrowser\obj\Debug\WBrowser.exe
+C:\Users\dipamchang\Downloads\Compressed\WBrowser\WBrowser\WBrowser\obj\Debug\WBrowser.pdb
+C:\Users\dipamchang\Documents\Visual Studio 2010\Projects\WBrowser\WBrowser\WBrowser\obj\Debug\WBrowser.About.resources
+C:\Users\dipamchang\Documents\Visual Studio 2010\Projects\WBrowser\WBrowser\WBrowser\obj\Debug\WBrowser.AddFavorites.resources
+C:\Users\dipamchang\Documents\Visual Studio 2010\Projects\WBrowser\WBrowser\WBrowser\obj\Debug\WBrowser.Calendar.resources
+C:\Users\dipamchang\Documents\Visual Studio 2010\Projects\WBrowser\WBrowser\WBrowser\obj\Debug\WBrowser.Close.resources
+C:\Users\dipamchang\Documents\Visual Studio 2010\Projects\WBrowser\WBrowser\WBrowser\obj\Debug\WBrowser.DeleteBrowsingHistory.resources
+C:\Users\dipamchang\Documents\Visual Studio 2010\Projects\WBrowser\WBrowser\WBrowser\obj\Debug\WBrowser.InternetOption.resources
+C:\Users\dipamchang\Documents\Visual Studio 2010\Projects\WBrowser\WBrowser\WBrowser\obj\Debug\WBrowser.WBrowser.resources
+C:\Users\dipamchang\Documents\Visual Studio 2010\Projects\WBrowser\WBrowser\WBrowser\obj\Debug\WBrowser.Open.resources
+C:\Users\dipamchang\Documents\Visual Studio 2010\Projects\WBrowser\WBrowser\WBrowser\obj\Debug\WBrowser.OrganizeFavorites.resources
+C:\Users\dipamchang\Documents\Visual Studio 2010\Projects\WBrowser\WBrowser\WBrowser\obj\Debug\WBrowser.RenameLink.resources
+C:\Users\dipamchang\Documents\Visual Studio 2010\Projects\WBrowser\WBrowser\WBrowser\obj\Debug\WBrowser.csproj.GenerateResource.Cache
+C:\Users\dipamchang\Documents\Visual Studio 2010\Projects\WBrowser\WBrowser\WBrowser\obj\Debug\WBrowser.Routesdisplay.resources
+C:\Users\dipamchang\Documents\Visual Studio 2010\Projects\WBrowser\WBrowser\WBrowser\obj\Debug\Switch_Box.Properties.Resources.resources
+C:\Users\dipamchang\Documents\Visual Studio 2010\Projects\WBrowser\WBrowser\WBrowser\obj\Debug\Switch_Box.exe
+C:\Users\dipamchang\Documents\Visual Studio 2010\Projects\WBrowser\WBrowser\WBrowser\obj\Debug\Switch_Box.pdb
+C:\Users\dipamchang\Documents\Visual Studio 2010\Projects\WBrowser\WBrowser\WBrowser\bin\Debug\Switch_Box.exe
+C:\Users\dipamchang\Documents\Visual Studio 2010\Projects\WBrowser\WBrowser\WBrowser\bin\Debug\Switch_Box.pdb
+C:\Users\dipamchang\Documents\Visual Studio 2010\Projects\WBrowser\WBrowser\WBrowser\obj\Debug\WBrowser.csprojResolveAssemblyReference.cache

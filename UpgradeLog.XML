@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="WBrowser">
+</Property><Property Name="Solution File" Value="C:\Users\dipamchang\Downloads\Compressed\WBrowser\WBrowser\WBrowser.sln">
+</Property><Property Name="Date" Value="Sunday, September 22, 2013">
+</Property><Property Name="Time" Value="15:43 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="WBrowser.sln" Description="File successfully backed up as C:\Users\dipamchang\Downloads\Compressed\WBrowser\WBrowser\Backup\WBrowser.sln">
+</Event><Event ErrorLevel="0" Project="WBrowser" Source="WBrowser\WBrowser.csproj" Description="Project file successfully backed up as C:\Users\dipamchang\Downloads\Compressed\WBrowser\WBrowser\Backup\WBrowser\WBrowser.csproj">
+</Event><Event ErrorLevel="0" Project="WBrowser" Source="WBrowser\WBrowser.csproj.user" Description="Project user file successfully backed up as C:\Users\dipamchang\Downloads\Compressed\WBrowser\WBrowser\Backup\WBrowser\WBrowser.csproj.user">
+</Event><Event ErrorLevel="0" Project="WBrowser" Source="WBrowser\About.cs" Description="File successfully backed up as C:\Users\dipamchang\Downloads\Compressed\WBrowser\WBrowser\Backup\WBrowser\About.cs">
+</Event><Event ErrorLevel="0" Project="WBrowser" Source="WBrowser\About.Designer.cs" Description="File successfully backed up as C:\Users\dipamchang\Downloads\Compressed\WBrowser\WBrowser\Backup\WBrowser\About.Designer.cs">
+</Event><Event ErrorLevel="0" Project="WBrowser" Source="WBrowser\AddFavorites.cs" Description="File successfully backed up as C:\Users\dipamchang\Downloads\Compressed\WBrowser\WBrowser\Backup\WBrowser\AddFavorites.cs">
+</Event><Event ErrorLevel="0" Project="WBrowser" Source="WBrowser\AddFavorites.Designer.cs" Description="File successfully backed up as C:\Users\dipamchang\Downloads\Compressed\WBrowser\WBrowser\Backup\WBrowser\AddFavorites.Designer.cs">
+</Event><Event ErrorLevel="0" Project="WBrowser" Source="WBrowser\Calendar.cs" Description="File successfully backed up as C:\Users\dipamchang\Downloads\Compressed\WBrowser\WBrowser\Backup\WBrowser\Calendar.cs">
+</Event><Event ErrorLevel="0" Project="WBrowser" Source="WBrowser\Calendar.Designer.cs" Description="File successfully backed up as C:\Users\dipamchang\Downloads\Compressed\WBrowser\WBrowser\Backup\WBrowser\Calendar.Designer.cs">
+</Event><Event ErrorLevel="0" Project="WBrowser" Source="WBrowser\Close.cs" Description="File successfully backed up as C:\Users\dipamchang\Downloads\Compressed\WBrowser\WBrowser\Backup\WBrowser\Close.cs">
+</Event><Event ErrorLevel="0" Project="WBrowser" Source="WBrowser\Close.Designer.cs" Description="File successfully backed up as C:\Users\dipamchang\Downloads\Compressed\WBrowser\WBrowser\Backup\WBrowser\Close.Designer.cs">
+</Event><Event ErrorLevel="0" Project="WBrowser" Source="WBrowser\DeleteBrowsingHistory.cs" Description="File successfully backed up as C:\Users\dipamchang\Downloads\Compressed\WBrowser\WBrowser\Backup\WBrowser\DeleteBrowsingHistory.cs">
+</Event><Event ErrorLevel="0" Project="WBrowser" Source="WBrowser\DeleteBrowsingHistory.Designer.cs" Description="File successfully backed up as C:\Users\dipamchang\Downloads\Compressed\WBrowser\WBrowser\Backup\WBrowser\DeleteBrowsingHistory.Designer.cs">
+</Event><Event ErrorLevel="0" Project="WBrowser" Source="WBrowser\InternetOption.cs" Description="File successfully backed up as C:\Users\dipamchang\Downloads\Compressed\WBrowser\WBrowser\Backup\WBrowser\InternetOption.cs">
+</Event><Event ErrorLevel="0" Project="WBrowser" Source="WBrowser\InternetOption.Designer.cs" Description="File successfully backed up as C:\Users\dipamchang\Downloads\Compressed\WBrowser\WBrowser\Backup\WBrowser\InternetOption.Designer.cs">
+</Event><Event ErrorLevel="0" Project="WBrowser" Source="WBrowser\WBrowser.cs" Description="File successfully backed up as C:\Users\dipamchang\Downloads\Compressed\WBrowser\WBrowser\Backup\WBrowser\WBrowser.cs">
+</Event><Event ErrorLevel="0" Project="WBrowser" Source="WBrowser\WBrowser.Designer.cs" Description="File successfully backed up as C:\Users\dipamchang\Downloads\Compressed\WBrowser\WBrowser\Backup\WBrowser\WBrowser.Designer.cs">
+</Event><Event ErrorLevel="0" Project="WBrowser" Source="WBrowser\Open.cs" Description="File successfully backed up as C:\Users\dipamchang\Downloads\Compressed\WBrowser\WBrowser\Backup\WBrowser\Open.cs">
+</Event><Event ErrorLevel="0" Project="WBrowser" Source="WBrowser\Open.Designer.cs" Description="File successfully backed up as C:\Users\dipamchang\Downloads\Compressed\WBrowser\WBrowser\Backup\WBrowser\Open.Designer.cs">
+</Event><Event ErrorLevel="0" Project="WBrowser" Source="WBrowser\OrganizeFavorites.cs" Description="File successfully backed up as C:\Users\dipamchang\Downloads\Compressed\WBrowser\WBrowser\Backup\WBrowser\OrganizeFavorites.cs">
+</Event><Event ErrorLevel="0" Project="WBrowser" Source="WBrowser\OrganizeFavorites.Designer.cs" Description="File successfully backed up as C:\Users\dipamchang\Downloads\Compressed\WBrowser\WBrowser\Backup\WBrowser\OrganizeFavorites.Designer.cs">
+</Event><Event ErrorLevel="0" Project="WBrowser" Source="WBrowser\Program.cs" Description="File successfully backed up as C:\Users\dipamchang\Downloads\Compressed\WBrowser\WBrowser\Backup\WBrowser\Program.cs">
+</Event><Event ErrorLevel="0" Project="WBrowser" Source="WBrowser\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\dipamchang\Downloads\Compressed\WBrowser\WBrowser\Backup\WBrowser\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="WBrowser" Source="WBrowser\Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Users\dipamchang\Downloads\Compressed\WBrowser\WBrowser\Backup\WBrowser\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="WBrowser" Source="WBrowser\RenameLink.cs" Description="File successfully backed up as C:\Users\dipamchang\Downloads\Compressed\WBrowser\WBrowser\Backup\WBrowser\RenameLink.cs">
+</Event><Event ErrorLevel="0" Project="WBrowser" Source="WBrowser\RenameLink.Designer.cs" Description="File successfully backed up as C:\Users\dipamchang\Downloads\Compressed\WBrowser\WBrowser\Backup\WBrowser\RenameLink.Designer.cs">
+</Event><Event ErrorLevel="0" Project="WBrowser" Source="WBrowser\About.resx" Description="File successfully backed up as C:\Users\dipamchang\Downloads\Compressed\WBrowser\WBrowser\Backup\WBrowser\About.resx">
+</Event><Event ErrorLevel="0" Project="WBrowser" Source="WBrowser\AddFavorites.resx" Description="File successfully backed up as C:\Users\dipamchang\Downloads\Compressed\WBrowser\WBrowser\Backup\WBrowser\AddFavorites.resx">
+</Event><Event ErrorLevel="0" Project="WBrowser" Source="WBrowser\Calendar.resx" Description="File successfully backed up as C:\Users\dipamchang\Downloads\Compressed\WBrowser\WBrowser\Backup\WBrowser\Calendar.resx">
+</Event><Event ErrorLevel="0" Project="WBrowser" Source="WBrowser\Close.resx" Description="File successfully backed up as C:\Users\dipamchang\Downloads\Compressed\WBrowser\WBrowser\Backup\WBrowser\Close.resx">
+</Event><Event ErrorLevel="0" Project="WBrowser" Source="WBrowser\DeleteBrowsingHistory.resx" Description="File successfully backed up as C:\Users\dipamchang\Downloads\Compressed\WBrowser\WBrowser\Backup\WBrowser\DeleteBrowsingHistory.resx">
+</Event><Event ErrorLevel="0" Project="WBrowser" Source="WBrowser\InternetOption.resx" Description="File successfully backed up as C:\Users\dipamchang\Downloads\Compressed\WBrowser\WBrowser\Backup\WBrowser\InternetOption.resx">
+</Event><Event ErrorLevel="0" Project="WBrowser" Source="WBrowser\WBrowser.resx" Description="File successfully backed up as C:\Users\dipamchang\Downloads\Compressed\WBrowser\WBrowser\Backup\WBrowser\WBrowser.resx">
+</Event><Event ErrorLevel="0" Project="WBrowser" Source="WBrowser\Open.resx" Description="File successfully backed up as C:\Users\dipamchang\Downloads\Compressed\WBrowser\WBrowser\Backup\WBrowser\Open.resx">
+</Event><Event ErrorLevel="0" Project="WBrowser" Source="WBrowser\OrganizeFavorites.resx" Description="File successfully backed up as C:\Users\dipamchang\Downloads\Compressed\WBrowser\WBrowser\Backup\WBrowser\OrganizeFavorites.resx">
+</Event><Event ErrorLevel="0" Project="WBrowser" Source="WBrowser\Properties\Resources.resx" Description="File successfully backed up as C:\Users\dipamchang\Downloads\Compressed\WBrowser\WBrowser\Backup\WBrowser\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="WBrowser" Source="WBrowser\RenameLink.resx" Description="File successfully backed up as C:\Users\dipamchang\Downloads\Compressed\WBrowser\WBrowser\Backup\WBrowser\RenameLink.resx">
+</Event><Event ErrorLevel="0" Project="WBrowser" Source="WBrowser\WBrowser.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="WBrowser" Source="WBrowser\WBrowser.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="WBrowser.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="WBrowser.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="WBrowser" Source="WBrowser\WBrowser.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
